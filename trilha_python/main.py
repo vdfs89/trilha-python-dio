@@ -1,5 +1,5 @@
-from input_handler import input_interactive
-from user_profile import UserProfile
+from .input_handler import input_interactive
+from .user_profile import UserProfile
 
 
 def main():
