@@ -1,0 +1,2 @@
+# Dependências de terceiros para execução dos exemplos neste repositório.
+# Atualmente os arquivos principais usam apenas biblioteca padrão do Python.
